@@ -1,0 +1,10 @@
+Physics Simulator V2:
+
+Added:
+> Weight is a factor in determining gravity and is used in the update function of the particles
+> Blackholes
+	> Can place anywhere on canvas with mouse click
+> New Controls 
+	> press "b" to place blackholes
+	> press "p" to place particles (default)
+
