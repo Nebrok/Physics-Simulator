@@ -18,7 +18,7 @@ class Particle():
     def display(self):
         #Taking the length of the object away from the position centers
         #the coordinates on the middle of the rectangle.
-        pygame.draw.rect(self.screen, [255,255,0], (self.posX-self.L, self.posY-self.L, self.L, self.L))
+        pygame.draw.rect(self.screen, [255,205,0], (self.posX-self.L, self.posY-self.L, self.L, self.L))
 
     def update(self, speeds):
         self.x_speed = speeds[0]
