@@ -27,7 +27,7 @@ screen.fill(BLACK)
 p_list = []
 b_list = []
 
-gravity_pos = (size[0]/2,size[1]/2);
+gravity_pos = (size[0]/2,size[1]/2)
 
 InitVel = 0
 
